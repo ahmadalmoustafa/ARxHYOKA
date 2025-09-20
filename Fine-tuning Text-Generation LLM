@@ -1,1 +1,6 @@
+git clone https://github.com/<your-username>/ARxHYOKA.git
+cd ARxHYOKA
+git rm -r "Fine-tuning Text-Generation LLM"   # quotes handle spaces
+git commit -m "Remove Fine-tuning Text-Generation LLM"
+git push origin main
 
